@@ -1,2 +1,5 @@
 eclipse.preferences.version=1
-encoding//src/com/imooc/exception/Exception.java=UTF-8
+encoding//src/com/imooc/exception/ChainTest.java=UTF-8
+encoding//src/com/imooc/exception/Divider.java=UTF-8
+encoding//src/com/imooc/exception/ExceptionTest.java=UTF-8
+encoding//src/com/imooc/exception/MultiException.java=UTF-8

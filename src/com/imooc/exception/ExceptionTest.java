@@ -3,7 +3,7 @@ package com.imooc.exception;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Exception {
+public class ExceptionTest {
 	public static void main(String[] args) {
 		try {
 			System.out.println("请输入您的年龄：");
